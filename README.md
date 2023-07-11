@@ -5,11 +5,6 @@ Finds suitable upcoming tournaments.
 
 Due to the lack of an API and the existence of a strict cookie wall, selenium and chrome is required to crawl this data.
 
-# Lambda deploy
-
-mkdir package
-pip -r requirements.txt --target ./package
-
 
 # TODO
 
@@ -24,6 +19,6 @@ pip -r requirements.txt --target ./package
 * ~~classes~~
 * ~~export pd to csv~~
 * ~~export to google sheets~~
-* ~~Readme
+* ~~Readme~~
 * ~~Trim distances~~
 * ~~Trim/format dates~~
